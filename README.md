@@ -33,6 +33,7 @@ We think the following logic components need to be written to start validating t
 - Logic to automatically pin new (or previous) IPFS data of SSB friends
 
 ## Future Directions
+- Add qri.io in the mix
 - Explore Ethereum/SSB identity correspondance (https://github.com/blockades/mmt_resources/blob/1dd052dc1bd39afa174caa17b13a72abaa1febbc/research/secp.md)
 - Explore IPFS/NDN interop (https://named-data.net/gsoc-2019/)
 - Explore IPFS/DTN (Delay Tolerant Networking) interop
